@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Weather\Weather\bin\Debug\Weather.exe.config
+C:\Users\Admin\source\repos\Weather\Weather\bin\Debug\Weather.exe
+C:\Users\Admin\source\repos\Weather\Weather\bin\Debug\Weather.pdb
+C:\Users\Admin\source\repos\Weather\Weather\obj\Debug\Weather.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Weather\Weather\obj\Debug\Weather.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Weather\Weather\obj\Debug\Weather.exe
+C:\Users\Admin\source\repos\Weather\Weather\obj\Debug\Weather.pdb
